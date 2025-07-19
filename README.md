@@ -1,1 +1,2 @@
 # WineQuality_prediction_dataScience_project
+1.install requirements.txt
