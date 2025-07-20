@@ -212,3 +212,221 @@ x======x]
 [2025-07-20 08:51:20,783: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<<
 
 x======x]
+[2025-07-20 14:47:48,640: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-20 14:47:48,644: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-20 14:49:49,862: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-20 14:49:49,865: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-20 14:49:49,869: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-20 14:49:49,870: INFO: common: created directory at: artifacts]
+[2025-07-20 14:49:49,872: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-07-20 14:52:32,875: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-20 14:52:32,877: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-20 14:52:32,880: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-20 14:52:32,881: INFO: common: created directory at: artifacts]
+[2025-07-20 14:52:32,883: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-07-20 14:53:57,259: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-20 14:53:57,262: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-20 14:53:57,265: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-20 14:53:57,267: INFO: common: created directory at: artifacts]
+[2025-07-20 14:53:57,268: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-07-20 14:53:58,414: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-07-20 14:54:53,754: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-20 14:54:53,757: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-20 14:54:53,759: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-20 14:54:53,761: INFO: common: created directory at: artifacts]
+[2025-07-20 14:54:53,763: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-07-20 14:54:54,257: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-07-20 15:01:02,507: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-07-20 15:01:02,510: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-20 15:01:02,513: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-20 15:01:02,515: INFO: common: created directory at: artifacts]
+[2025-07-20 15:01:02,516: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-07-20 15:01:03,369: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-07-20 15:22:55,079: INFO: common: YAML file loaded successfully: config\config.yaml]
+[2025-07-20 15:22:55,082: INFO: common: YAML file loaded successfully: params.yaml]
+[2025-07-20 15:22:55,087: INFO: common: YAML file loaded successfully: schema.yaml]
+[2025-07-20 15:22:55,089: INFO: common: created directory at: artifacts]
+[2025-07-20 15:22:55,091: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-07-20 15:22:56,120: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-07-20 15:24:52,717: INFO: common: YAML file loaded successfully: config\config.yaml]
+[2025-07-20 15:24:52,719: INFO: common: YAML file loaded successfully: params.yaml]
+[2025-07-20 15:24:52,723: INFO: common: YAML file loaded successfully: schema.yaml]
+[2025-07-20 15:24:52,725: INFO: common: created directory at: artifacts]
+[2025-07-20 15:24:52,726: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-07-20 15:24:53,303: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-07-20 15:27:40,117: INFO: common: YAML file loaded successfully: config\config.yaml]
+[2025-07-20 15:27:40,119: INFO: common: YAML file loaded successfully: params.yaml]
+[2025-07-20 15:27:40,124: INFO: common: YAML file loaded successfully: schema.yaml]
+[2025-07-20 15:27:40,126: INFO: common: created directory at: artifacts]
+[2025-07-20 15:27:40,128: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-07-20 15:27:40,636: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-07-20 15:28:00,307: INFO: common: YAML file loaded successfully: config\config.yaml]
+[2025-07-20 15:28:00,311: INFO: common: YAML file loaded successfully: params.yaml]
+[2025-07-20 15:28:00,315: INFO: common: YAML file loaded successfully: schema.yaml]
+[2025-07-20 15:28:00,318: INFO: common: created directory at: artifacts]
+[2025-07-20 15:28:00,320: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-07-20 15:28:00,800: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-07-20 16:03:25,170: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<<]
+[2025-07-20 16:03:25,174: INFO: common: YAML file loaded successfully: config\config.yaml]
+[2025-07-20 16:03:25,175: INFO: common: YAML file loaded successfully: params.yaml]
+[2025-07-20 16:03:25,192: INFO: common: YAML file loaded successfully: schema.yaml]
+[2025-07-20 16:03:25,196: INFO: common: created directory at: artifacts]
+[2025-07-20 16:03:25,197: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-07-20 16:03:25,197: INFO: data_ingestion: File alreday exists]
+[2025-07-20 16:03:25,233: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<<
+
+x======x]
+[2025-07-20 16:03:25,233: INFO: main: >>>>>> stage MOdel validaiton stage started <<<<<<<]
+[2025-07-20 16:03:25,236: INFO: common: YAML file loaded successfully: config\config.yaml]
+[2025-07-20 16:03:25,237: INFO: common: YAML file loaded successfully: params.yaml]
+[2025-07-20 16:03:25,240: INFO: common: YAML file loaded successfully: schema.yaml]
+[2025-07-20 16:03:25,241: INFO: common: created directory at: artifacts]
+[2025-07-20 16:03:25,242: INFO: common: created directory at: artifacts/data_validation]
+[2025-07-20 16:03:25,279: INFO: main: >>>>>> stage MOdel validaiton stage completed <<<<<<<
+
+x======x]
+[2025-07-20 16:03:25,279: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<<]
+[2025-07-20 16:03:25,292: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<<
+
+x======x]
+[2025-07-20 16:03:25,293: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<<]
+[2025-07-20 16:03:25,297: INFO: common: YAML file loaded successfully: config\config.yaml]
+[2025-07-20 16:03:25,300: INFO: common: YAML file loaded successfully: params.yaml]
+[2025-07-20 16:03:25,304: INFO: common: YAML file loaded successfully: schema.yaml]
+[2025-07-20 16:03:25,306: INFO: common: created directory at: artifacts]
+[2025-07-20 16:03:25,308: INFO: common: created directory at: artifacts/model_trainer]
+[2025-07-20 16:03:25,358: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<<
+
+x======x]
+[2025-07-20 16:03:25,359: INFO: main: >>>>>> stage Model evaluation Stage started <<<<<<<]
+[2025-07-20 16:03:25,361: INFO: common: YAML file loaded successfully: config\config.yaml]
+[2025-07-20 16:03:25,362: INFO: common: YAML file loaded successfully: params.yaml]
+[2025-07-20 16:03:25,364: INFO: common: YAML file loaded successfully: schema.yaml]
+[2025-07-20 16:03:25,365: INFO: common: created directory at: artifacts]
+[2025-07-20 16:03:25,365: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-07-20 16:03:27,832: ERROR: main: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: '']
+Traceback (most recent call last):
+  File "C:\WineQuality_prediction_dataScience_project\main.py", line 68, in <module>
+    data_ingestion.initiate_model_evaluation()
+  File "C:\WineQuality_prediction_dataScience_project\src\datascience\pipeline\model_evaluation_pipeline.py", line 15, in initiate_model_evaluation
+    model_evaluation_config.log_into_mlflow()
+  File "C:\WineQuality_prediction_dataScience_project\src\datascience\components\model_evaluation.py", line 82, in log_into_mlflow
+    with mlflow.start_run():
+  File "C:\WineQuality_prediction_dataScience_project\venv_wineprediction\lib\site-packages\mlflow\tracking\fluent.py", line 474, in start_run
+    active_run_obj = client.create_run(
+  File "C:\WineQuality_prediction_dataScience_project\venv_wineprediction\lib\site-packages\mlflow\tracking\client.py", line 435, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "C:\WineQuality_prediction_dataScience_project\venv_wineprediction\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 161, in create_run
+    return self.store.create_run(
+  File "C:\WineQuality_prediction_dataScience_project\venv_wineprediction\lib\site-packages\mlflow\store\tracking\rest_store.py", line 272, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "C:\WineQuality_prediction_dataScience_project\venv_wineprediction\lib\site-packages\mlflow\store\tracking\rest_store.py", line 135, in _call_endpoint
+    return call_endpoint(
+  File "C:\WineQuality_prediction_dataScience_project\venv_wineprediction\lib\site-packages\mlflow\utils\rest_utils.py", line 590, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "C:\WineQuality_prediction_dataScience_project\venv_wineprediction\lib\site-packages\mlflow\utils\rest_utils.py", line 310, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: ''
+[2025-07-20 16:04:11,694: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<<]
+[2025-07-20 16:04:11,698: INFO: common: YAML file loaded successfully: config\config.yaml]
+[2025-07-20 16:04:11,699: INFO: common: YAML file loaded successfully: params.yaml]
+[2025-07-20 16:04:11,702: INFO: common: YAML file loaded successfully: schema.yaml]
+[2025-07-20 16:04:11,704: INFO: common: created directory at: artifacts]
+[2025-07-20 16:04:11,705: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-07-20 16:04:11,705: INFO: data_ingestion: File alreday exists]
+[2025-07-20 16:04:11,710: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<<
+
+x======x]
+[2025-07-20 16:04:11,711: INFO: main: >>>>>> stage MOdel validaiton stage started <<<<<<<]
+[2025-07-20 16:04:11,716: INFO: common: YAML file loaded successfully: config\config.yaml]
+[2025-07-20 16:04:11,718: INFO: common: YAML file loaded successfully: params.yaml]
+[2025-07-20 16:04:11,719: INFO: common: YAML file loaded successfully: schema.yaml]
+[2025-07-20 16:04:11,721: INFO: common: created directory at: artifacts]
+[2025-07-20 16:04:11,722: INFO: common: created directory at: artifacts/data_validation]
+[2025-07-20 16:04:11,750: INFO: main: >>>>>> stage MOdel validaiton stage completed <<<<<<<
+
+x======x]
+[2025-07-20 16:04:11,751: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<<]
+[2025-07-20 16:04:11,752: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<<
+
+x======x]
+[2025-07-20 16:04:11,752: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<<]
+[2025-07-20 16:04:11,755: INFO: common: YAML file loaded successfully: config\config.yaml]
+[2025-07-20 16:04:11,756: INFO: common: YAML file loaded successfully: params.yaml]
+[2025-07-20 16:04:11,757: INFO: common: YAML file loaded successfully: schema.yaml]
+[2025-07-20 16:04:11,758: INFO: common: created directory at: artifacts]
+[2025-07-20 16:04:11,759: INFO: common: created directory at: artifacts/model_trainer]
+[2025-07-20 16:04:11,770: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<<
+
+x======x]
+[2025-07-20 16:04:11,770: INFO: main: >>>>>> stage Model evaluation Stage started <<<<<<<]
+[2025-07-20 16:04:11,773: INFO: common: YAML file loaded successfully: config\config.yaml]
+[2025-07-20 16:04:11,774: INFO: common: YAML file loaded successfully: params.yaml]
+[2025-07-20 16:04:11,777: INFO: common: YAML file loaded successfully: schema.yaml]
+[2025-07-20 16:04:11,778: INFO: common: created directory at: artifacts]
+[2025-07-20 16:04:11,779: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-07-20 16:04:13,100: ERROR: main: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: '']
+Traceback (most recent call last):
+  File "C:\WineQuality_prediction_dataScience_project\main.py", line 68, in <module>
+    data_ingestion.initiate_model_evaluation()
+  File "C:\WineQuality_prediction_dataScience_project\src\datascience\pipeline\model_evaluation_pipeline.py", line 15, in initiate_model_evaluation
+    model_evaluation_config.log_into_mlflow()
+  File "C:\WineQuality_prediction_dataScience_project\src\datascience\components\model_evaluation.py", line 82, in log_into_mlflow
+    with mlflow.start_run():
+  File "C:\WineQuality_prediction_dataScience_project\venv_wineprediction\lib\site-packages\mlflow\tracking\fluent.py", line 474, in start_run
+    active_run_obj = client.create_run(
+  File "C:\WineQuality_prediction_dataScience_project\venv_wineprediction\lib\site-packages\mlflow\tracking\client.py", line 435, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "C:\WineQuality_prediction_dataScience_project\venv_wineprediction\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 161, in create_run
+    return self.store.create_run(
+  File "C:\WineQuality_prediction_dataScience_project\venv_wineprediction\lib\site-packages\mlflow\store\tracking\rest_store.py", line 272, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "C:\WineQuality_prediction_dataScience_project\venv_wineprediction\lib\site-packages\mlflow\store\tracking\rest_store.py", line 135, in _call_endpoint
+    return call_endpoint(
+  File "C:\WineQuality_prediction_dataScience_project\venv_wineprediction\lib\site-packages\mlflow\utils\rest_utils.py", line 590, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "C:\WineQuality_prediction_dataScience_project\venv_wineprediction\lib\site-packages\mlflow\utils\rest_utils.py", line 310, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: ''
+[2025-07-20 16:12:27,015: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<<]
+[2025-07-20 16:12:27,018: INFO: common: YAML file loaded successfully: config\config.yaml]
+[2025-07-20 16:12:27,020: INFO: common: YAML file loaded successfully: params.yaml]
+[2025-07-20 16:12:27,021: INFO: common: YAML file loaded successfully: schema.yaml]
+[2025-07-20 16:12:27,023: INFO: common: created directory at: artifacts]
+[2025-07-20 16:12:27,024: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-07-20 16:12:27,025: INFO: data_ingestion: File alreday exists]
+[2025-07-20 16:12:27,030: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<<
+
+x======x]
+[2025-07-20 16:12:27,030: INFO: main: >>>>>> stage MOdel validaiton stage started <<<<<<<]
+[2025-07-20 16:12:27,033: INFO: common: YAML file loaded successfully: config\config.yaml]
+[2025-07-20 16:12:27,034: INFO: common: YAML file loaded successfully: params.yaml]
+[2025-07-20 16:12:27,037: INFO: common: YAML file loaded successfully: schema.yaml]
+[2025-07-20 16:12:27,039: INFO: common: created directory at: artifacts]
+[2025-07-20 16:12:27,040: INFO: common: created directory at: artifacts/data_validation]
+[2025-07-20 16:12:27,068: INFO: main: >>>>>> stage MOdel validaiton stage completed <<<<<<<
+
+x======x]
+[2025-07-20 16:12:27,068: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<<]
+[2025-07-20 16:12:27,070: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<<
+
+x======x]
+[2025-07-20 16:12:27,070: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<<]
+[2025-07-20 16:12:27,072: INFO: common: YAML file loaded successfully: config\config.yaml]
+[2025-07-20 16:12:27,073: INFO: common: YAML file loaded successfully: params.yaml]
+[2025-07-20 16:12:27,075: INFO: common: YAML file loaded successfully: schema.yaml]
+[2025-07-20 16:12:27,077: INFO: common: created directory at: artifacts]
+[2025-07-20 16:12:27,078: INFO: common: created directory at: artifacts/model_trainer]
+[2025-07-20 16:12:27,089: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<<
+
+x======x]
+[2025-07-20 16:12:27,090: INFO: main: >>>>>> stage Model evaluation Stage started <<<<<<<]
+[2025-07-20 16:12:27,093: INFO: common: YAML file loaded successfully: config\config.yaml]
+[2025-07-20 16:12:27,094: INFO: common: YAML file loaded successfully: params.yaml]
+[2025-07-20 16:12:27,096: INFO: common: YAML file loaded successfully: schema.yaml]
+[2025-07-20 16:12:27,098: INFO: common: created directory at: artifacts]
+[2025-07-20 16:12:27,099: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-07-20 16:12:28,310: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-07-20 16:12:33,446: INFO: main: >>>>>> stage Model evaluation Stage completed <<<<<<<
+
+x======x]
